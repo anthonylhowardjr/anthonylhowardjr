@@ -7,7 +7,7 @@
     </ul>
 </div>
 
-My name is Anthony Howard and I'm a Senior Full-Stack Software Engineer working for the nations #1 mortgage lender.
+My name is Anthony Howard and I'm a Senior Full-Stack Software Engineer working for Rocket Mortage.
 
 I have many years of experience under my belt and looking to build something cool. 
  
