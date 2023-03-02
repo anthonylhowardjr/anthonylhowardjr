@@ -1,2 +1,5 @@
-# me
-A little information about me.
+<section align="middle">
+
+<h1 align="middle">Hi! I'm Anthony<h1>
+
+</section>
