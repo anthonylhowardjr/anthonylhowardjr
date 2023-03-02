@@ -6,6 +6,10 @@
       </summary>
     </ul>
 </div>
+
+My name is Anthony Howard and I'm a Senior Full-Stack Software Engineer working for the nations #1 mortgage lender.
+
+I have many years of experience under my belt and looking to build something cool. 
  
 <div id="user-content-toc">
   <ul>
@@ -27,4 +31,6 @@
 	<img title="Angular" loading="lazy" alt="Angular" height="50" src="./assets/svgs/tech_stack/angular_logo.svg"/>
 	<img title="Rancher" loading="lazy" alt="Rancher" height="50" src="./assets/svgs/tech_stack/rancher_logo.svg"/>
 	<img title="MySql" loading="lazy" alt="Rancher" height="50" src="./assets/svgs/tech_stack/mysql_logo.svg"/>
+	<img title="gRPC" loading="lazy" alt="Rancher" height="50" src="./assets/svgs/tech_stack/grpc_icon.png"/>
+	<img title="tRPC" loading="lazy" alt="Rancher" height="50" src="./assets/svgs/tech_stack/trpc_logo.svg"/>
 </p>
