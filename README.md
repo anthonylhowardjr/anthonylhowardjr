@@ -1,15 +1,19 @@
-<section align="middle">
-
-<h1 align="middle">Hi! I'm Anthony<h1>
-
-</section>
-  
-  <div id="user-content-toc">
+<div align="center">
+<div id="user-content-toc">
+    <ul>
+      <summary>
+        <h1>HI! I'm Anthony Howard</h1>
+      </summary>
+    </ul>
+</div>
+ 
+<div id="user-content-toc">
   <ul>
     <summary>
-	    <h1 style="display: inline-block;">Technologies I Love</h1>
+	    <h2>Technologies I Love</h2>
     </summary>
   </ul>
+</div>
 </div>
 
 <p align="center">
